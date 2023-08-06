@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web, Mobile, API Testing<br>👯 I’m looking to collaborate on software testing frameworks<br>🌱 I’m currently building Playwright Framework for Web Automation Testing<br>💬 Ask me about automation testing<br>⚡ Fun fact - I am lazy but smart<br><br>
+🔭 I’m currently working on Web, Mobile, and API Testing<br>👯 I’m looking to collaborate on software testing frameworks<br>🌱 I’m currently building a Playwright framework for web automation <br>💬 Ask me about automation testing<br>⚡ Fun fact - I am lazy but smart<br><br>
 
 
 ## 🌐 Socials:
