@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web, Mobile, and API Testing<br>👯 I’m looking to collaborate on software testing frameworks<br>🌱 I’m currently building a Playwright framework for web automation <br>💬 Ask me about automation testing<br>⚡ Fun fact - I am lazy but smart<br><br>
+🔭 I’m currently working on Web, Mobile, and API Testing<br>👯 I’m looking to collaborate on software testing frameworks<br>🌱 I’m currently building a framework for mobile automation <br>💬 Ask me about automation testing<br>⚡ Fun fact - I am lazy but smart<br><br>
 
 
 ## 🌐 Socials:
@@ -7,6 +7,7 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 <!--# 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=atifhyder&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atifhyder&theme=vue-dark&hide_border=true)<br/>
